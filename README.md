@@ -1,6 +1,6 @@
 ## Hi there 👋. I'm Guadalupe Cedillo
 ### About Me
-👨‍💻 I’m a Computer Engineering, I have worked in different projects (also in COBOL), Backend development and SQL.
+👨‍💻 I’m a Computer Engineering, I have worked in different projects  Backend development and SQL (also in COBOL) .
 I’m passionate about building efficient and scalable solutions, and I’m always eager to learn new technologies to enhance my skills.
 Currently, I'm diving deeper into development with Spring Boot, NoSQL databases. I enjoy actively connecting with new people and exchanging ideas.
 
