@@ -1,43 +1,44 @@
-## Hi there 👋. I'm Guadalupe Cedillo
-### About Me
-👨‍💻 I’m a Computer Engineering, I have worked in different projects   development (COBOL, Java, Python, SQL) .
-I’m passionate about building efficient and scalable solutions, and I’m always eager to learn new technologies to enhance my skills.
-Currently, I'm diving deeper into development with Spring Boot, NoSQL databases, cloud. I enjoy actively connecting with new people and exchanging ideas.
+# Hi there 👋 I'm Guadalupe Cedillo
 
+## 💼 About Me
+💻 COBOL Developer | Mainframe | SQL | Batch Processing  
+I am a Computer Engineering professional with experience in COBOL, SQL, and legacy systems, mainly in banking and government environments.  
 
+I specialize in batch processing, system maintenance, and large-scale data environments.  
+Currently, I am enhancing my skills in Python, data analysis, and cloud technologies (Azure) to support modernization projects.
 
-<!--
-**cedillo2010/cedillo2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+---
 
-### 🚀 Technical Skills
+## 🚀 Technical Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-</p>
+![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge&logo=ibm&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Mainframe](https://img.shields.io/badge/Mainframe-000000?style=for-the-badge&logo=ibm&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch%20Processing-6A5ACD?style=for-the-badge)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SQL-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-#### Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/JPA-%23F58220.svg?&style=for-the-badge&logo=jpa&logoColor=white" alt="JPA"/>
- <img src="https://img.shields.io/badge/Insonmia-%23005A9C.svg??&style=for-the-badge&logo=css3&logoColor=white" alt="Insomnia"/>
-</p>
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-</p>
+## 🛠 Technologies
 
+![DB2](https://img.shields.io/badge/DB2-0033A0?style=for-the-badge&logo=ibm&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
+---
+
+## 📚 Knowledge
+
+- Algorithms and Data Structures  
+- Software Architecture and Design  
+
+---
+
+## 🌍 Open to Work
+💼 Open to remote COBOL opportunities (Spain / International)
 
 ### 📚 Knowledge
 - Algorithms and Data Structures
